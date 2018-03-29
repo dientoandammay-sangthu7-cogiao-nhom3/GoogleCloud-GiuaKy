@@ -1,0 +1,58 @@
+ .wrapper{
+    margin: 60px auto;
+    text-align: center;
+  } 
+  h1{
+    margin-bottom: 1.25em;
+  }
+  #pagination-demo{
+    display: inline-block;
+    margin-bottom: 1.75em;
+  }
+  #pagination-demo li{
+    display: inline-block;
+  }
+  
+  .page-content{
+    background: #eee;
+    display: inline-block;
+    padding: 10px;
+    width: 100%;
+    max-width: 1000px;
+  } 
+  
+  
+  /***
+Green Haze
+***/
+/* Button */
+.green-haze.btn {
+  color: #FFFFFF;
+  background-color: #44b6ae;
+  border-color: "";
+}
+.green-haze.btn:hover, .green-haze.btn:focus, .green-haze.btn:active, .green-haze.btn.active {
+  color: #FFFFFF;
+  background-color: #3a9c95;
+}
+.open .green-haze.btn.dropdown-toggle {
+  color: #FFFFFF;
+  background-color: #3a9c95;
+}
+.green-haze.btn:active, .green-haze.btn.active {
+  background-image: none;
+  background-color: #338983;
+}
+.green-haze.btn:active:hover, .green-haze.btn.active:hover {
+  background-color: #36918b;
+}
+.open .green-haze.btn.dropdown-toggle {
+  background-image: none;
+}
+.green-haze.btn.disabled, .green-haze.btn.disabled:hover, .green-haze.btn.disabled:focus, .green-haze.btn.disabled:active, .green-haze.btn.disabled.active, .green-haze.btn[disabled], .green-haze.btn[disabled]:hover, .green-haze.btn[disabled]:focus, .green-haze.btn[disabled]:active, .green-haze.btn[disabled].active, fieldset[disabled] .green-haze.btn, fieldset[disabled] .green-haze.btn:hover, fieldset[disabled] .green-haze.btn:focus, fieldset[disabled] .green-haze.btn:active, fieldset[disabled] .green-haze.btn.active {
+  background-color: #44b6ae;
+}
+.green-haze.btn .badge {
+  color: #44b6ae;
+  background-color: #FFFFFF;
+}
