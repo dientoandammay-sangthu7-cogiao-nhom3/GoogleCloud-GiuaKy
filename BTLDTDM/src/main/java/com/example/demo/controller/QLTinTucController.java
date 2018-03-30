@@ -160,7 +160,7 @@ public class QLTinTucController {
         System.getProperty("user.home"), ".credentials/drive-java-quickstart");*/
     
     private static final java.io.File DATA_STORE_DIR = new java.io.File(
-    		("credenticals/"), ".credentials/2/drive-java-quickstart.json");
+    		("credentials/"), ".credentials/2/drive-java-quickstart.json");
 
     /** Global instance of the {@link FileDataStoreFactory}. */
     private static FileDataStoreFactory DATA_STORE_FACTORY;
